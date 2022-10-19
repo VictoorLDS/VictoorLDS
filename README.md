@@ -1,6 +1,6 @@
 <article>
   <div>
-    <h3 align="center">☁ ...<i>VictoorLDS</i> 🔘</h3>
+    <h3 align="center"><i>VictoorLDS</i></h3>
   </div>
   <p align="center">
     <a href="https://twitter.com/VictoorLDS"> Twitter </a>
